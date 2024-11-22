@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(https://i.pinimg.com/originals/3c/7a/fc/3c7afc1b68c0f8cc367dd9d0f1f383de.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+fieldset{
+    transform: translate(150%, 70%);
+    width: 230px;
+    border: solid rgb(0, 0, 0);
+}
